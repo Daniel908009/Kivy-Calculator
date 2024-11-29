@@ -7,7 +7,7 @@
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/bd391631-b258-404f-a56b-aca1d5186654)
 ![image](https://github.com/user-attachments/assets/ddbe8774-60a0-48e9-a464-ce2e74285898)
-
+<p>Here you can see the resizability I was talking about.</p>
 
 <h1>Download instructions</h1>
 *Note the links are instructional images <br>
